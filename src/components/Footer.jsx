@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="row">
             <div className="col">
                 <a href="">FAQ</a>
-                <a href="">Investor Relations</a>
+                <a href="">Investor Relation</a>
                 <a href="">Privacy</a>
                 <a href="">Speed Test</a>
             </div>
